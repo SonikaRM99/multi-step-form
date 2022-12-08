@@ -1,5 +1,27 @@
+body {
+  background-color: #d6d9e6;
+}
+
 .App {
   text-align: center;
+}
+
+@font-face {
+  font-family: "Ubuntu Medium"; /*Can be any text*/
+  src: local("Ubuntu-Medium"),
+    url("./assets/fonts/Ubuntu-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Ubuntu Bold"; /*Can be any text*/
+  src: local("Ubuntu-Bold"),
+    url("./assets/fonts/Ubuntu-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Ubuntu Regular"; /*Can be any text*/
+  src: local("Ubuntu-Regular"),
+    url("./assets/fonts/Ubuntu-Regular.ttf") format("truetype");
 }
 
 .App-logo {

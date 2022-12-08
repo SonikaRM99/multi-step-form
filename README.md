@@ -21,7 +21,10 @@
 
 - desktop screen
 
-image.png
+![image](https://user-images.githubusercontent.com/112680840/206430880-986687c6-7e2b-475f-91cb-4a9cf3fa84d0.png)
+
 
 - Mobile screen
-  image.png
+  
+![image](https://user-images.githubusercontent.com/112680840/206430975-d9fb0ac6-f5a1-443c-b389-f81fdc81b90e.png)
+

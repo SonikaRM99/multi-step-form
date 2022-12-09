@@ -2,7 +2,7 @@
   "name": "challenges",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://SonikaRM99.github.io",
+  "homepage": "http://SonikaRM99.github.io/MultiStepForm",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
